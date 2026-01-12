@@ -8,3 +8,23 @@ The purpose of this portfolio is to demonstrate my development approach, code qu
 
 # HEADER SECTION 👌
  ![image](https://etarnityglobal.github.io/developer-portfolio/images/header.png)
+
+# ABOUT ME  SECTION 👌
+ ![image](https://etarnityglobal.github.io/developer-portfolio/images/about-me.png)
+
+# MY SKILL SECTION 👌
+  ![image](https://etarnityglobal.github.io/developer-portfolio/images/my-skill.png)
+
+# PREVIOUS WORK SECTION 👌
+   ![image](https://etarnityglobal.github.io/developer-portfolio/images/previous-work.png)
+
+# GET IN TOUCH SECTION 👌
+ ![image](https://etarnityglobal.github.io/developer-portfolio/images/get-in-touch.png)
+
+# FOOTER SECTION 👌
+![image](https://etarnityglobal.github.io/developer-portfolio/images/footer.png)
+
+
+All honors and credits belong to Etarnity Global<br>
+thank you<br>
+Etarnity Global Team <br>
