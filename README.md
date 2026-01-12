@@ -32,6 +32,6 @@ The purpose of this portfolio is to demonstrate my development approach, code qu
 <hr>
 
 
-# All honors and credits belong to Etarnity Global<br>
-# thank you<br>
-# Etarnity Global Team <br>
+ All honors and credits belong to Etarnity Global<br>
+ thank you<br>
+ Etarnity Global Team <br>
